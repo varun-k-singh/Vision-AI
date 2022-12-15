@@ -1,1 +1,1 @@
-# Git and Python Overview
+# Git Overview
